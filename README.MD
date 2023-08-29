@@ -9,4 +9,5 @@
 2. task_2.2.1 variables
 ### 2.3 Функции
 3. task_2.3.1 functions
-
+### 2.4 Типы данных
+4. task_2.4.1 data types
