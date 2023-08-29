@@ -7,4 +7,6 @@
 1. task_2.1.1 Hello World
 ### 2.2 Переменные
 2. task_2.2.1 variables
+### 2.3 Функции
+3. task_2.3.1 functions
 
